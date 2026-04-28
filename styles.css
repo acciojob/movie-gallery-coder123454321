@@ -1,24 +1,4 @@
-
-/* Your CSS Code here. */
-.col-sm-1{
-	display:flex;
-}
-.col-sm-1>img{
-	width:200px;
-	height:200px;
-}
-.col-sm-2{
-	display:flex;
-}
-.col-sm-2>img{
-	width:200px;
-	height:200px;
-}
-
-.col-sm-3{
-	display:flex;
-}
-.col-sm-3>img{
-	width:200px;
-	height:200px;
+img {
+    width: 100px;
+    height: 100px;
 }
